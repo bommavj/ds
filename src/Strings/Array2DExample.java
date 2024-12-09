@@ -1,8 +1,14 @@
 package Strings;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Array2DExample {
     public static void main(String[] args) {
 
+        List l = new ArrayList<>();
+        l.size();
+        
         // create a 2d array
         int[][] a = {
                 {1, 2, 3},
